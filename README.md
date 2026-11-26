@@ -50,6 +50,27 @@ Inclui atualização programada e exportação de relatórios em CSV, Excel e PD
 
 Tecnologias do projeto: Python, Pandas, OpenPyXL, ReportLab, HTML, CSS e JavaScript.
 
+**Demonstração visual — dados fictícios**
+
+As telas apresentam uma demonstração com colaboradores, clientes, contratos, metas e valores inteiramente fictícios. Os números são ilustrativos e não representam resultados financeiros reais da empresa.
+
+**Abertura do sistema**
+
+![Abertura do Manpower — Núcleo de Gestão](imagens/manpower-abertura.png)
+
+**Visão gerencial**
+
+Acompanhamento de acionamentos, negociações, contratos e indicadores no período selecionado.
+
+![Visão gerencial do Manpower com dados fictícios](imagens/manpower-visao-gerencial.png)
+
+**Acompanhamento de metas**
+
+Comparação entre metas e produção realizada, com acompanhamento diário e acumulado da equipe.
+
+![Relatório de metas do Manpower com dados fictícios](imagens/manpower-metas.png)
+
+
 ### Automações de processos
 
 Desenvolvi rotinas para tratamento e consolidação de arquivos, geração de relatórios e execução de tarefas recorrentes, incluindo envio e resposta a e-mails.
