@@ -24,6 +24,22 @@ Minha contribuição incluiu integração com bancos de dados em Python e person
 
 Tecnologias do projeto: Python, Dash sobre Flask, Plotly, Pandas, Parquet, Oracle, DuckDB e SQLite.
 
+**Demonstração visual — dados fictícios**
+
+As capturas abaixo apresentam o funcionamento do REGE com dados sintéticos. Os valores exibidos são ilustrativos.
+
+**Visão gerencial**
+
+Filtros e indicadores para explorar a carteira por classe, cidade, faixa de valor e tipo de débito.
+
+![Visão gerencial do REGE com filtros, indicadores e gráficos](imagens/visao-gerencial.png)
+
+**Análise geográfica**
+
+Avaliação de pontos de atendimento por raio de captação, com indicadores da carteira e estimativas de dimensionamento e custos.
+
+![Mapa do REGE com ponto selecionado e indicadores de captação](imagens/mapa-e-roi.png)
+
 ### Manpower — Núcleo de Gestão
 
 Desenvolvi e implementei um sistema web para acompanhar a produtividade dos colaboradores terceirizados, as negociações e o atingimento das metas.
