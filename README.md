@@ -40,7 +40,7 @@ Avaliação de pontos de atendimento por raio de captação, com indicadores da 
 
 ![Mapa do REGE com ponto selecionado e indicadores de captação](imagens/mapa-e-roi.png)
 
-### Manpower — Núcleo de Gestão
+### Manpower — Núcleo de Recuperação
 
 Desenvolvi e implementei um sistema web para acompanhar a produtividade dos colaboradores terceirizados, as negociações e o atingimento das metas.
 
